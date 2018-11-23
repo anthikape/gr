@@ -1,6 +1,6 @@
 ---
 layout: single
-title: snake
+title: Snake Game
 header: no
 categories:
   - game
@@ -13,7 +13,7 @@ tags:
 Διαδραστικό παράδειγμα κώδικα στο οποίο ο χρήστης μπορεί να παίξει το κλασικό παιχνίδι φιδάκι (snake) το οποίο παίζεται με έναν παίχτη.
 
 
-<p data-height="350" data-theme-id="17517" data-slug-hash="yhnEF" data-default-tab="result" data-user="Sophie Alpert" class='codepen'>See the Pen <a href='https://codepen.io/lukesinclair94/pen/yhnEF'>Tic Tac Toe</a> by Luke Sinclai (<a href='https://codepen.io/lukesinclair94/'>lukesinclair94</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<p data-height="350" data-theme-id="17517" data-slug-hash="yhnEF" data-default-tab="result" data-user="Sophie Alpert" class='codepen'>See the Pen <a href='https://codepen.io/lukesinclair94/pen/yhnEF'>Snake Game</a> by Luke Sinclai (<a href='https://codepen.io/lukesinclair94/'>lukesinclair94</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
                                                          
 
