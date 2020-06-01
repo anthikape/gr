@@ -16,6 +16,6 @@ gallery:
     caption: "Το WorldWideWeb ή WWW ήταν το πρώτο web browser, όταν γράφτηκε ήταν το μοναδικό πρόγραμμα για την περιήγηση στον παγκόσμιο ιστό. Ο πηγαίος κώδικας έγινε κοινό κτήμα το 1993"
 --- 
 
-{% include bio-burnerli.md %}
+{% include bio-bernerli.md %}
 
-{% include slides.html caption="Εικόνες για την βιογραφία της Burner Li" %
+{% include slides.html caption="Εικόνες για την βιογραφία της Berner Li" %}
